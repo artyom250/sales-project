@@ -32,8 +32,8 @@ User-friendly design offers you the freedom to personalize every detail and brin
 Clone the repo by typing these comands in your terminal to check out the project:
 
 ```bash
-cd your-folder
 git clone https://github.com/artyom250/sales-project.git
+cd sales-project
 npm install
 npm run dev
 ```
