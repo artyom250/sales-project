@@ -5,12 +5,14 @@ An exceptional marketing landing page website designed to elevate your online pr
 User-friendly design offers you the freedom to personalize every detail and bring your unique vision to life with unparalleled ease and precision. Whether you're a seasoned professional or just starting, it empowers you to craft a landing page that truly reflects your brand identity.
 
 ### Highlights
+
 * 8 Well Organized Sections
 * Flexible Content
 * Fully Responsive
 * Creative Illustrations
 
 ### Sections
+
 * Hero
 * About Us
 * Services
@@ -20,5 +22,7 @@ User-friendly design offers you the freedom to personalize every detail and brin
 * Contact Us
 * Footer
 
-
 # Installation
+
+Clone this repo in your folder by typing this comand (make sure you've already installed Node and Git on your machine):
+
