@@ -27,8 +27,8 @@ User-friendly design offers you the freedom to personalize every detail and brin
 Clone this repo in your folder by typing this comand to check out the project (make sure you've already installed [Node](https://nodejs.org/en) and [Git](https://git-scm.com/) on your machine earlier):
 
 ```bash
-git clone https://github.com/artyom250/sales-project.git
 cd your-folder
+git clone https://github.com/artyom250/sales-project.git
 npm install
 npm run dev
 ```
