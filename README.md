@@ -10,7 +10,7 @@ User-friendly design offers you the freedom to personalize every detail and brin
 * Fully Responsive
 * Creative Illustrations
 
-## Highlights
+## Sections
 * Hero
 * About Us
 * Services
