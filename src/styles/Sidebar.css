@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@700&display=swap');
+
+.Sidebar {
+    background-color: #090d06;
+    position: fixed;
+    pointer-events: none;
+    overflow: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    top: 0%;
+    width: 100%;
+    height: 100%;
+    transition: 0.3s;
+    z-index: 2;
+}
+
+.Sidebar.show {
+    pointer-events: all;
+    opacity: 1;
+}
+
+.sidebar-top {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    height: 130px;
+    padding: 0px 125px;
+}
+
+.sidebar-top i {
+    color: white;
+    display: flex;
+    margin-left: auto;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.Sidebar ul {
+    padding: 150px 0px;
+}
+
+.Sidebar ul li {
+    display: flex;
+    justify-content: center;
+    margin: 8px 0px;
+}
+
+.Sidebar ul li a {
+    color: #e1ffc7;
+    font-family: 'Passion One', sans-serif;
+    text-transform: uppercase;
+    font-size: 2.5em;
+}
+
+@media(max-width: 1000px) {
+    .sidebar-top {
+        padding: 0px 80px;
+    }
+}
+
+@media(max-width: 550px) {
+    .sidebar-top {
+        padding: 0px 55px;
+    }
+
+    .Sidebar ul li {
+        margin: 7px 0px;
+    }
+
+    .Sidebar ul li a {
+        font-size: 2em;
+    }
+
+    .sidebar-top i {
+        font-size: 25px;
+    }
+}
+
+@media(max-width: 500px) {
+    .sidebar-top {
+        height: 120px;
+    }
+}

@@ -1,0 +1,28 @@
+.App {
+    background-color: #090d06;
+    min-height: 100vh;
+}
+
+@media(min-width: 1719px) {
+    .auto {
+        margin: auto;
+        width: fit-content;
+    }
+
+    .block-heading {
+        max-width: 1469.2px;
+    }
+
+    .grid, .flex, .testimonials, .contact {
+        max-width: 1469.2px;
+    }
+
+    .navbar {
+        min-width: 1469.2px;
+    }
+
+    .Banner, footer {
+        min-width: 1469.2px;
+    }
+}
+
