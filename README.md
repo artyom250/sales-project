@@ -24,7 +24,7 @@ User-friendly design offers you the freedom to personalize every detail and brin
 
 # Installation
 
-Clone this repo in your folder by typing this comand to check out the project (make sure you've already installed [Node](https://nodejs.org/en) and [Git](https://git-scm.com/) on your machine earlier):
+Clone the repo by typing these comands in your terminal to check out the project (make sure you've already installed [Node](https://nodejs.org/en) and [Git](https://git-scm.com/) on your machine earlier):
 
 ```bash
 cd your-folder
