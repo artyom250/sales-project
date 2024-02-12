@@ -19,3 +19,6 @@ User-friendly design offers you the freedom to personalize every detail and brin
 * FAQ
 * Contact Us
 * Footer
+
+
+# Installation
