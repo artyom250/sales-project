@@ -4,13 +4,13 @@ An exceptional marketing landing page website designed to elevate your online pr
 
 User-friendly design offers you the freedom to personalize every detail and bring your unique vision to life with unparalleled ease and precision. Whether you're a seasoned professional or just starting, it empowers you to craft a landing page that truly reflects your brand identity.
 
-<h2 style="border:none">Highlights</h1>
+## Highlights
 * 8 Well Organized Sections
 * Flexible Content
 * Fully Responsive
 * Creative Illustrations
 
-<h2 style="border:none">Sections</h1>
+## Sections
 * Hero
 * About Us
 * Services
